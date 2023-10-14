@@ -1,0 +1,17 @@
+/*varialbe globales*/
+.text-black{
+	color: black !important;
+}
+
+.text-white{
+	color: white !important;
+}
+
+.text-blue{
+	color: blue !important;
+}
+
+.fecha_post{
+	font-size: 12px;
+	color: gray;
+}
